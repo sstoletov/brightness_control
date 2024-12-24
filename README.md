@@ -1,1 +1,1 @@
-brightness changer for linux
+Brightness changer for linux
